@@ -1,3 +1,4 @@
-<?php
+<?php 
+header('location:pages/login.php');
 
-echo "Hello Worldssss!";
+?>
